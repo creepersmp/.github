@@ -1,10 +1,9 @@
 # CreeperSMP - 一個Minecraft生存伺服器
+# 伺服器暫時不開放，詳細公開時間未定
 
 ## 伺服器規則
 
-- [全站規章](https://creepersmp.net/docs/all_rules)
-- [Discord規則](https://creepersmp.net/docs/dc_rules)
-- [Minecraft規則 (編寫中)](https://creepersmp.net/docs/mc_rules)
+- [伺服器規則](https://creepersmp.net/docs/rules)
 
 ## 我們的站點
 
