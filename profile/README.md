@@ -14,6 +14,6 @@
 [![Facebook](https://raw.githubusercontent.com/creepersmp/.github/main/images/profile/facebook.png)](https://facebook.com/CSMPOffical)
 [![Discord](https://raw.githubusercontent.com/creepersmp/.github/main/images/profile/instagram.png)](https://instagram.com/creepersmp_offical)
 <br/>
-![Discord](https://raw.githubusercontent.com/creepersmp/.github/main/images/profile/minecraft-java.png)
+![Minecraft-Java-IP](https://raw.githubusercontent.com/creepersmp/.github/main/images/profile/minecraft-java.png)
 
 </div>
